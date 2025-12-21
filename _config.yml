@@ -30,9 +30,11 @@ url: https://Fennec2000GH.github.io/ # the base hostname & protocol for your sit
 github_username:  Fennec2000GH
 
 # Build settings
-theme: minima
+theme: just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
