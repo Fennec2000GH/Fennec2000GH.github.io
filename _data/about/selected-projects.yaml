@@ -1,0 +1,29 @@
+
+- title: Evaluating Tree-based Models for Survival Analysis
+  subtitle: Course Project | Department of Statistics, University of Florida
+  dates: 02/2022 – 04/2022
+  description: 
+    - Compared selection of tree-based machine learning methods against traditional survival analysis methods, namely Kaplan-Meier and Cox-Hazard, on predicting lifetimes of Kickstarter projects being funded
+    - Experimental results concluded the traditional methods performed similarly to each other but were dominated by tree-based methods, most prominently conditional inference trees across all scoring metrics
+
+
+- title: Network Cache System Simulator
+  subtitle: Course project | Department of CISE, University of Florida
+  dates: 01/2022 – 04/2022
+  description: 
+    - Designed caching policy for discrete-event simulation study of a network file system, which was tested against well-known caching policies in literature 
+    - Ranking based on average network request completion time, performance analysis revealed that evicting largest file first is fastest on average
+
+- title: Using AI to Trace the History of Race and Inequality
+  subtitle: "Research assistantship | Department of Classics, College of Liberal Arts & Sciences, University of Florida | Advisor: Dr. Eleni Bozia"
+  dates: 06/2021 – 05/2022
+  description: 
+    - Engineered NLP pipeline to retrieve, transform, and index Latin and Greek from archived XML sources, allowing easy search to support sentiment analysis of daily life in the classical world
+    - Supervised undergraduate teams on digital text extraction and XML indexing to compare metadata between pieces of text volumes during text processing
+
+- title: Data Analytics and Information Retrieval" NSF Research Experience for Undergraduates
+  subtitle: "NSF REU Recipient • Department of Information Science, College of Information, University of North Texas | Advisor: Dr. Junhua Ding"
+  dates: 06/2021 – 08/2021
+  description:
+    - Experimentally evaluated traditional versus deep learning algorithms on legal text classification to identify models that could help legal teams quickly identify legal contract type from corporate documents
+    - Analyzed dataset factors to explain why traditional ML, especially boosting algorithms, outperformed deep learning models transferred from BERT and Sentence-BERT models
