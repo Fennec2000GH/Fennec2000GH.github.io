@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course Notes
-permalink: /course-notes/
+# permalink: /course-notes/CS
 ---
 
 This is just a skeleton for my current courses at Georgia Tech. Relevant content coming soon.
